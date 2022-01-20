@@ -1,3 +1,6 @@
-# KaratayMahalleler
+# Karatay Mahalle Bilgileri
 
-✔ Karatay'da bulunan mahallelere ait tüm bilgilere json, csv, xls, sql veya xml formatlarında erişim sağlayabilirsiniz.
+✔ Karatay ait mahallelerin adı, muhtar adı, mahalle nüfusu bilgilerine erişim sağlayabilirsiniz.
+✔ Ulaşabileceğiniz formatlar: [JSON], [---], [---], [---], [---]
+
+(Not: Bilgi çeşitliliği ve formatlar sürekli olarak güncellenecektir.)
