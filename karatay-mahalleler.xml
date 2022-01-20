@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <mahalleler>
+    <id>1</id>
+    <adi>ACIDORT MAHALLESİ</adi>
+    <muhtar_adi>KERİM KÜÇÜKKAVUN</muhtar_adi>
+    <nufus>158</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>2</id>
+    <adi>AĞSAKLI MAHALLESİ</adi>
+    <muhtar_adi>KAMURAN ÖZKAN</muhtar_adi>
+    <nufus>419</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>3</id>
+    <adi>AKABE MAHALLESİ</adi>
+    <muhtar_adi>MUSTAFA BULUT</muhtar_adi>
+    <nufus>20787</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>4</id>
+    <adi>AKBAŞ MAHALLESİ</adi>
+    <muhtar_adi>MEHMET BÜYÜKLER</muhtar_adi>
+    <nufus>101</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>5</id>
+    <adi>AKÇEŞME MAHALLESİ</adi>
+    <muhtar_adi>MAHMUT SAMİ YALÇINKAYA</muhtar_adi>
+    <nufus>631</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>6</id>
+    <adi>AKİFPAŞA MAHALLESİ</adi>
+    <muhtar_adi>ÖMER MUMCU</muhtar_adi>
+    <nufus>3640</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>7</id>
+    <adi>AKÖRENKIŞLA MAHALLESİ</adi>
+    <muhtar_adi>DAVUT ASLAN</muhtar_adi>
+    <nufus>730</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>8</id>
+    <adi>AZİZİYE MAHALLESİ</adi>
+    <muhtar_adi>MEHMET ALİ UZUN</muhtar_adi>
+    <nufus>2679</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>9</id>
+    <adi>BAKIRTOLU MAHALLESİ</adi>
+    <muhtar_adi>FEHMİ AYÇİÇEK</muhtar_adi>
+    <nufus>215</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>10</id>
+    <adi>BAŞAK MAHALLESİ</adi>
+    <muhtar_adi>ASKER ÇETİN</muhtar_adi>
+    <nufus>3475</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>11</id>
+    <adi>BAŞGÖTÜREN MAHALLESİ</adi>
+    <muhtar_adi>MEHMET KARA</muhtar_adi>
+    <nufus>165</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>12</id>
+    <adi>BEŞAĞIL MAHALLESİ</adi>
+    <muhtar_adi>DURSUN KARAKAYA</muhtar_adi>
+    <nufus>642</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>13</id>
+    <adi>BÜYÜKBURNAK MAHALLESİ</adi>
+    <muhtar_adi>LÜTFİ BESTİL</muhtar_adi>
+    <nufus>261</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>14</id>
+    <adi>BÜYÜKSİNAN MAHALLESİ</adi>
+    <muhtar_adi>AHMET KÜÇÜKHARMANCI</muhtar_adi>
+    <nufus>8755</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>15</id>
+    <adi>ÇATALHÜYÜK MAHALLESİ</adi>
+    <muhtar_adi>ADEM KURTULAN</muhtar_adi>
+    <nufus>13698</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>16</id>
+    <adi>ÇATALTÖMEK MAHALLESİ</adi>
+    <muhtar_adi>HÜSEYİN KULEKAYA</muhtar_adi>
+    <nufus>4327</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>17</id>
+    <adi>ÇELEBİ MAHALLESİ</adi>
+    <muhtar_adi>MURAT DİŞCİ</muhtar_adi>
+    <nufus>4113</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>18</id>
+    <adi>ÇENGİLTİ MAHALLESİ</adi>
+    <muhtar_adi>HÜSEYİN AVCI</muhtar_adi>
+    <nufus>236</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>19</id>
+    <adi>ÇİMENLİK MAHALLESİ</adi>
+    <muhtar_adi>MEHMET ÇETİN</muhtar_adi>
+    <nufus>1618</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>20</id>
+    <adi>DİVANLAR MAHALLESİ</adi>
+    <muhtar_adi>HACI ALİ EKEN</muhtar_adi>
+    <nufus>271</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>21</id>
+    <adi>DOĞUŞ MAHALLESİ</adi>
+    <muhtar_adi>ADEM SOYDAN</muhtar_adi>
+    <nufus>11355</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>22</id>
+    <adi>ELMACI MAHALLESİ</adi>
+    <muhtar_adi>ALİ YİĞİT</muhtar_adi>
+    <nufus>2956</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>23</id>
+    <adi>EMİRGAZİ MAHALLESİ</adi>
+    <muhtar_adi>ABDURRAHMAN ÖZKURT</muhtar_adi>
+    <nufus>4048</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>24</id>
+    <adi>ERENLER MAHALLESİ</adi>
+    <muhtar_adi>YUNUS AKBAY</muhtar_adi>
+    <nufus>9493</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>25</id>
+    <adi>ERLER MAHALLESİ</adi>
+    <muhtar_adi>AYKURT KARABULUT</muhtar_adi>
+    <nufus>7608</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>26</id>
+    <adi>ESENTEPE MAHALLESİ</adi>
+    <muhtar_adi>MUSTAFA URGAN</muhtar_adi>
+    <nufus>179</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>27</id>
+    <adi>FETİH MAHALLESİ</adi>
+    <muhtar_adi>MUAMMER ULUKAN</muhtar_adi>
+    <nufus>16419</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>28</id>
+    <adi>FEVZİÇAKMAK MAHALLESİ</adi>
+    <muhtar_adi>CELALETTİN SARIKAYA</muhtar_adi>
+    <nufus>8567</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>29</id>
+    <adi>GAZİOSMANPAŞA MAHALLESİ</adi>
+    <muhtar_adi>MEHMET ÇETİN</muhtar_adi>
+    <nufus>9440</nufus>
+  </mahalleler>
+  <mahalleler>
+    <id>30</id>
+    <adi>GÖÇÜ MAHALLESİ</adi>
+    <muhtar_adi>HASAN KÜÇÜKSARIOĞLAN</muhtar_adi>
+    <nufus>896</nufus>
+  </mahalleler>
+</root>
