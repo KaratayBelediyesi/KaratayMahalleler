@@ -4,4 +4,4 @@
 
 ✔ Ulaşabileceğiniz formatlar: [JSON], [---], [---], [---], [---].
 
-(Not: Bilgi çeşitliliği ve formatlar sürekli olarak güncellenecektir.)
+(Not: Bilgi çeşitliliği ve formatlar sürekli olarak güncellenmektedir.)
