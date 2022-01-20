@@ -3,8 +3,155 @@
     {
       "id": 1,
       "adi": "ACIDORT MAHALLESİ",
-      "muhtar_adi": "Kerim KÜÇÜKKAVUN",
+      "muhtar_adi": "KERİM KÜÇÜKKAVUN",
       "nufus": 158
+    },
+    {
+      "id": 2,
+      "adi": "AĞSAKLI MAHALLESİ",
+      "muhtar_adi": "KAMURAN ÖZKAN",
+      "nufus": 419
+    },
+    {
+      "id": 3,
+      "adi": "AKABE MAHALLESİ",
+      "muhtar_adi": "MUSTAFA BULUT",
+      "nufus": 20787
+    },    {
+      "id": 4,
+      "adi": "AKBAŞ MAHALLESİ",
+      "muhtar_adi": "MEHMET BÜYÜKLER",
+      "nufus": 101
+    },    {
+      "id": 5,
+      "adi": "AKÇEŞME MAHALLESİ",
+      "muhtar_adi": "MAHMUT SAMİ YALÇINKAYA",
+      "nufus": 631
+    },    {
+      "id": 6,
+      "adi": "AKİFPAŞA MAHALLESİ",
+      "muhtar_adi": "ÖMER MUMCU",
+      "nufus": 3640
+    },    {
+      "id": 7,
+      "adi": "AKÖRENKIŞLA MAHALLESİ",
+      "muhtar_adi": "DAVUT ASLAN",
+      "nufus": 730
+    },    {
+      "id": 8,
+      "adi": "AZİZİYE MAHALLESİ",
+      "muhtar_adi": "MEHMET ALİ UZUN",
+      "nufus": 2679
+    },    {
+      "id": 9,
+      "adi": "BAKIRTOLU MAHALLESİ",
+      "muhtar_adi": "FEHMİ AYÇİÇEK",
+      "nufus": 215
+    },    {
+      "id": 10,
+      "adi": "BAŞAK MAHALLESİ",
+      "muhtar_adi": "ASKER ÇETİN",
+      "nufus": 3475
+    },    {
+      "id": 11,
+      "adi": "BAŞGÖTÜREN MAHALLESİ",
+      "muhtar_adi": "MEHMET KARA",
+      "nufus": 165
+    },    {
+      "id": 12,
+      "adi": "BEŞAĞIL MAHALLESİ",
+      "muhtar_adi": "DURSUN KARAKAYA",
+      "nufus": 642
+    },    {
+      "id": 13,
+      "adi": "BÜYÜKBURNAK MAHALLESİ",
+      "muhtar_adi": "LÜTFİ BESTİL",
+      "nufus": 261
+    },    {
+      "id": 14,
+      "adi": "BÜYÜKSİNAN MAHALLESİ",
+      "muhtar_adi": "AHMET KÜÇÜKHARMANCI",
+      "nufus": 8755
+    },    {
+      "id": 15,
+      "adi": "ÇATALHÜYÜK MAHALLESİ",
+      "muhtar_adi": "ADEM KURTULAN",
+      "nufus": 13698
+    },    {
+      "id": 16,
+      "adi": "ÇATALTÖMEK MAHALLESİ",
+      "muhtar_adi": "HÜSEYİN KULEKAYA",
+      "nufus": 4327
+    },    {
+      "id": 17,
+      "adi": "ÇELEBİ MAHALLESİ",
+      "muhtar_adi": "MURAT DİŞCİ",
+      "nufus": 4113
+    },    {
+      "id": 18,
+      "adi": "ÇENGİLTİ MAHALLESİ",
+      "muhtar_adi": "HÜSEYİN AVCI",
+      "nufus": 236
+    },    {
+      "id": 19,
+      "adi": "ÇİMENLİK MAHALLESİ",
+      "muhtar_adi": "MEHMET ÇETİN",
+      "nufus": 1618
+    },    {
+      "id": 20,
+      "adi": "DİVANLAR MAHALLESİ",
+      "muhtar_adi": "HACI ALİ EKEN",
+      "nufus": 271
+    },    {
+      "id": 21,
+      "adi": "DOĞUŞ MAHALLESİ",
+      "muhtar_adi": "ADEM SOYDAN",
+      "nufus": 11355
+    },    {
+      "id": 22,
+      "adi": "ELMACI MAHALLESİ",
+      "muhtar_adi": "ALİ YİĞİT",
+      "nufus": 2956
+    },    {
+      "id": 23,
+      "adi": "EMİRGAZİ MAHALLESİ",
+      "muhtar_adi": "ABDURRAHMAN ÖZKURT",
+      "nufus": 4048
+    },    {
+      "id": 24,
+      "adi": "ERENLER MAHALLESİ",
+      "muhtar_adi": "YUNUS AKBAY",
+      "nufus": 9493
+    },    {
+      "id": 25,
+      "adi": "ERLER MAHALLESİ",
+      "muhtar_adi": "AYKURT KARABULUT",
+      "nufus": 7608
+    },    {
+      "id": 26,
+      "adi": "ESENTEPE MAHALLESİ",
+      "muhtar_adi": "MUSTAFA URGAN",
+      "nufus": 179
+    },    {
+      "id": 27,
+      "adi": "FETİH MAHALLESİ",
+      "muhtar_adi": "MUAMMER ULUKAN",
+      "nufus": 16419
+    },    {
+      "id": 28,
+      "adi": "FEVZİÇAKMAK MAHALLESİ",
+      "muhtar_adi": "CELALETTİN SARIKAYA",
+      "nufus": 8567
+    },    {
+      "id": 29,
+      "adi": "GAZİOSMANPAŞA MAHALLESİ",
+      "muhtar_adi": "MEHMET ÇETİN",
+      "nufus": 9440
+    },    {
+      "id": 30,
+      "adi": "GÖÇÜ MAHALLESİ",
+      "muhtar_adi": "HASAN KÜÇÜKSARIOĞLAN",
+      "nufus": 896
     }
   ]
 }
