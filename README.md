@@ -4,4 +4,4 @@
 
 ✔ Ulaşabileceğiniz formatlar: [JSON], [XML], [CSV], [XLSX], [---].
 
-(Not: Bilgi çeşitliliği ve formatlar sürekli olarak güncellenmektedir.)
+❗ (Not: Bilgi çeşitliliği ve formatlar sürekli olarak güncellenmektedir.)
