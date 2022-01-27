@@ -1,4 +1,4 @@
-# 🚧🏙 Karatay Mahalle Bilgileri
+# 🚧🏙 Karatay Mahalle Bilgileri 🔵
 
 ✔ Karatay ait mahallelerin adı, muhtar adı, mahalle nüfusu bilgilerine erişim sağlayabilirsiniz.
 
